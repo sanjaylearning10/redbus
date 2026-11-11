@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-11T19:07:44 IST" name="Default suite" finished-at="2025-07-11T19:08:22 IST" duration-ms="38597">
+    <groups>
+    </groups>
+    <test started-at="2025-07-11T19:07:44 IST" name="Default test" finished-at="2025-07-11T19:08:22 IST" duration-ms="38597">
+      <class name="com.redbus.action.SearchBus">
+        <test-method signature="launceBrowser()[pri:0, instance:com.redbus.action.SearchBus@550ee7e5]" started-at="2025-07-11T19:07:44 IST" name="launceBrowser" finished-at="2025-07-11T19:08:22 IST" duration-ms="38554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launceBrowser -->
+      </class> <!-- com.redbus.action.SearchBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
